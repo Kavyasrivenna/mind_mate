@@ -1,61 +1,78 @@
-+# Welcome to your Expo app 👋
+# 🧠 MindMate AI – Mental Health Companion App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+MindMate AI is a cross-platform mobile application built using React Native (Expo) that acts as a personal mental health assistant. It allows users to chat with AI, track their mood, and receive personalized suggestions.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
 
-   ```bash
-   npm install
-   ```
+* 🤖 AI Chatbot for real-time conversations
+* 😊 Mood detection & tracking system
+* 📊 Mood analytics with visual charts
+* 🔔 Smart suggestions (music, quotes, exercises)
+* 🔐 User authentication (Firebase – upcoming)
+* 📱 Cross-platform (Android, iOS via Expo)
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 📱 App Screens
 
-In the output, you'll find options to open the app in a
+* Home Screen (User input & chatbot)
+* Mood Tracking Dashboard
+* Analytics Screen
+* Profile Screen
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠 Tech Stack
 
-## Get a fresh project
+* **Frontend:** React Native (Expo)
+* **Backend:** Firebase (planned)
+* **AI Integration:** OpenAI API (planned)
+* **Navigation:** Expo Router
+* **State Management:** React Hooks
 
-When you're ready, run:
+---
+
+## ▶️ Run Locally
 
 ```bash
-npm run reset-project
+git clone https://github.com/Kavyasrivenna/mind_mate.git
+cd mind_mate
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📸 Screenshots
 
-To learn more about developing your project with Expo, look at the following resources:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e2cb66a-52de-41d6-be90-0d7f84d93ef7" width="200"/>
+  <img src="https://github.com/user-attachments/assets/09b8b43a-e721-4ea5-a459-e3a4795aaedc" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7a9a8897-2ccf-4b26-8213-ffaf74498813" width="200"/>
+</p>
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 💡 Future Improvements
 
-Join our community of developers creating universal apps.
+* 🎤 Voice-based input (speech-to-text)
+* 🧑‍⚕️ Connect with counselors
+* 📍 Emergency support feature
+* 📈 Advanced AI mood prediction
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
 
-- <img width="270" height="488" alt="image" src="https://github.com/user-attachments/assets/1e2cb66a-52de-41d6-be90-0d7f84d93ef7" />
-<img width="242" height="492" alt="image" src="https://github.com/user-attachments/assets/09b8b43a-e721-4ea5-a459-e3a4795aaedc" />
-<img width="251" height="530" alt="image" src="https://github.com/user-attachments/assets/7a9a8897-2ccf-4b26-8213-ffaf74498813" />
-<img width="266" height="501" alt="image" src="https://github.com/user-attachments/assets/4d0e8d02-11ee-4876-8e73-cfdf22cd3f01" />
-<img width="277" height="491" alt="image" src="https://github.com/user-attachments/assets/c839507a-f7fa-4ddd-b913-47bc46b2b627" />
+## 👩‍💻 Author
 
+**Kavya Sri Venna**
 
+* GitHub: https://github.com/Kavyasrivenna
+* LinkedIn: https://www.linkedin.com/in/kavyasri06/
 
+---
 
+## ⭐ Show your support
 
+If you like this project, give it a ⭐ on GitHub!
